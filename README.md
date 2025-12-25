@@ -1,3 +1,17 @@
+[README.md]
+
+<p align="center">
+  <a href="https://github.com/LjungrennAudio/conway-s_music_of_life">
+    <img src="https://img.shields.io/github/stars/LjungrennAudio/conway-s_music_of_life?style=for-the-badge" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/LjungrennAudio/conway-s_music_of_life/issues">
+    <img src="https://img.shields.io/github/issues/LjungrennAudio/conway-s_music_of_life?style=for-the-badge" alt="GitHub issues" />
+  </a>
+  <a href="https://github.com/LjungrennAudio/conway-s_music_of_life/fork">
+    <img src="https://img.shields.io/github/forks/LjungrennAudio/conway-s_music_of_life?style=for-the-badge" alt="GitHub forks" />
+  </a>
+</p>
+
 # conway-s_music_of_life
  experimenting_with audio version of conway's GoL
 
